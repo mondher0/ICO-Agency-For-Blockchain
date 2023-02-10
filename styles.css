@@ -706,7 +706,15 @@ footer {
    .mobile {
     display: none !important;
    }
+   body {
+    padding: 0;
+   }
+   .welcome-text .title h1{
+    margin-top: 70px !important;
+    margin-bottom: 30px !important ;
 
+   }
+  
 }
 
 .mobile .desc h1, .mobile .desc p:first-of-type {
